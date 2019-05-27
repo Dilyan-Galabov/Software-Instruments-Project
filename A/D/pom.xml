@@ -13,4 +13,12 @@
   <artifactId>D</artifactId>
   <packaging>jar</packaging>
   
-  </project>
+  <dependencies>
+  	<dependency>
+  		<groupId>org.C</groupId>
+  		<artifactId>C</artifactId>
+  		<version>0.0.1-SNAPSHOT</version>
+  	</dependency>
+  </dependencies>
+  
+</project>
