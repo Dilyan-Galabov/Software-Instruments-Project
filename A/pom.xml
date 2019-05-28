@@ -20,10 +20,8 @@
 	</dependencies>
 
 
-
 	<modules>
 		<module>B</module>
-		<module>D</module>
 	</modules>
 
 

@@ -1,13 +1,12 @@
 package org.D;
 
-import org.junit.Test;
 
 public class AppTest
 {
 
-    @Test
-    public void JunitTest() {
-
-    }
+    // can not find junit test because exclusion in pom
+    /*
+     * @Test private void testJunit() { }
+     */
 
 }
