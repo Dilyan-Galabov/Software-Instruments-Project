@@ -23,7 +23,6 @@
 
 	<modules>
 		<module>B</module>
-		<module>C</module>
 		<module>D</module>
 	</modules>
 
