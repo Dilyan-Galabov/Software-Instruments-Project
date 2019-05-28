@@ -9,6 +9,7 @@ import org.C.AnimalFromC;
  */
 public class App
 {
+
     public static void main( String[] args )
     {
         // can be accesed because of dependency of C(which depends on B)
